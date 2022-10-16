@@ -1,0 +1,91 @@
+.img{ width: 350px
+}
+.Family{
+    font-style: inherit;
+    font-size:35px;
+    background: steelblue;
+    color: lemonchiffon;
+}
+.Fam{
+    font-style: italic;
+    font-size:25px;
+    background: steelblue;
+    color: lemonchiffon;
+
+}
+.Homer{
+    font-style: inherit;
+    font-size:35px;
+    background: steelblue;
+    color: lemonchiffon;
+
+
+}
+.Hom{
+    font-style:unset;
+    font-size:25px;
+    background: steelblue;
+    color: lemonchiffon;
+}
+.Marge{
+    font-style: inherit;
+    font-size:35px;
+    background: steelblue;
+    color: lemonchiffon;
+}
+.Mar{
+    font-style:unset;
+    font-size:25px;
+    background: steelblue;
+    color: lemonchiffon;
+
+}
+.Bart{
+    font-style: inherit;
+    font-size:35px;
+    background: steelblue;
+    color: lemonchiffon;
+
+}
+.Bar{
+    font-style:unset;
+    font-size:25px;
+    background: steelblue;
+    color: lemonchiffon;
+}
+.Lisa{
+    font-style: inherit;
+    font-size:35px;
+    background: steelblue;
+    color: lemonchiffon;
+}
+.Li{
+    font-style:unset;
+    font-size:25px;
+    background: steelblue;
+    color: lemonchiffon;
+}
+.Maggie{
+    font-style: inherit;
+    font-size:35px;
+    background: steelblue;
+    color: lemonchiffon;
+}
+.Mag{
+    font-style:unset;
+    font-size:25px;
+    background: steelblue;
+    color: lemonchiffon;
+}
+ul{
+    font-style: oblique;
+    font-size:30px;
+    background:lawngreen;
+    color:steelblue;
+}
+ul> li{
+    font-style:inherit;
+    font-size:20px;
+    background:aqua;
+    color:darkgray;
+}
