@@ -16,18 +16,18 @@ body{
 .all{
     height: 500px;
     width: 1000px;
-    /*background: cyan;*/
+    background: cyan;
     display: flex;
-    justify-content:space-between;
-    align-items: end;
+    justify-content:space-evenly;
+    align-items: flex-end;
     margin-top: 100px;
 
 }
 
 .card {
-    /*background: darkgray;*/
+    background: darkgray;
     height: 70%;
-    width: 450px;
+    width: 250px;
     border: 2px solid black;
     display: flex;
     flex-direction:column;
