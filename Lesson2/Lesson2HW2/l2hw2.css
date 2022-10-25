@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.mainblock{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    /*background: coral;*/
+ justify-content: space-evenly;
+
+}
+
+.all{
+    height: 500px;
+    width: 1000px;
+    /*background: cyan;*/
+    display: flex;
+    justify-content:space-between;
+    align-items: end;
+    margin-top: 100px;
+
+}
+
+.card {
+    /*background: darkgray;*/
+    height: 70%;
+    width: 450px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction:column;
+    justify-content:flex-end;
+    align-items: center;
+    text-align: center;
+
+}
+.click{
+    height: 10%;
+    width: 50%;
+    border: 2px solid black;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
