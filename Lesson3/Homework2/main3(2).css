@@ -1,0 +1,70 @@
+body{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.granny{
+    height: 700px;
+    width: 100%;
+    background: cyan;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content:space-between;
+    position: relative;
+}
+.father{
+    height: 500px;
+    width: 100%;
+    background: darkcyan;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    position: relative;
+    bottom: 100px;
+    column-gap: 20px;
+
+}
+.child{
+    height: 150px;
+    width: 150px;
+    background: darksalmon;
+    border-radius: 12%;
+    position: relative;
+    bottom: -250px;
+
+}
+.menu{
+    height: 100px;
+    width: 100%;
+    background: chartreuse;
+    display: flex;
+   justify-content: space-between;
+    align-items: center;
+
+}
+
+.left_block{
+    height: 35px;
+    width: 80px;
+    background: black;
+    border-radius: 12%;
+    margin-left: 40px;
+}
+.right_block{
+    height: 30px;
+    width: 200px;
+    background: darkblue;
+    margin-right: 60px;
+    display: flex;
+   justify-content: space-around;
+    align-items:center;
+    }
+    .icon{
+        height: 25px;
+        width: 80px;
+       background: goldenrod;
+        display: flex;
+        align-items: center;
+    }
+
