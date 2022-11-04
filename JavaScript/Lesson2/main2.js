@@ -1,4 +1,14 @@
-let arr = [ 21,true,-65,'Gummy',false,'fall',324,'final move',true,'Fatality']
+let arr = [ ]
+     arr[0]= 21 ;
+     arr[1]= true ;
+     arr[2]= -65 ;
+     arr[3]= 'Gummy' ;
+     arr[4]= false ;
+     arr[5]= 'fall';
+     arr[6]= 324 ;
+     arr[7]= 'final move' ;
+     arr[8]= true ;
+     arr[9]= 'Fatality' ;
 console.log(arr)
 
 let book1 = {
